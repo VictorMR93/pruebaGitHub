@@ -1,4 +1,3 @@
 # pruebaGitHub
-prueba
-editado
 editado2
+editado3
